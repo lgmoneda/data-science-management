@@ -20,7 +20,7 @@
 
 title: Data Science Management
 email: lg.moneda@gmail.com
-description: >- Data Science Management
+description: Data Science Management
 baseurl: "/data-science-management" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lgmoneda
