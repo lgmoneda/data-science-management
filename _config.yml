@@ -36,6 +36,8 @@ compress_html:
   blanklines: true   
 plugins:
   - jekyll-feed
+ga_tracking: G-4FZ4ZK59NB
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
