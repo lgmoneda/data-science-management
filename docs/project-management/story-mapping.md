@@ -10,7 +10,7 @@ nav_order: 4
 
 With a potential team in place and agreement on the problem's relevance, we can start the Story Mapping. A team can use Story Mapping during discovery, but now it will reach the limits of shared understanding to build it together.
 
-Though Story Mapping is central to this process, that's a version of it that works well for my purposes. Here's a [video](https://www.jpattonassociates.com/documents-fail-can/) and an [info graphic](http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf) by Jeff Patton summarizing it on its original proposition.
+Though Story Mapping is central to this process, that's a version of it that works well for my purposes. Here's a [video](https://www.youtube.com/watch?v=a--xbF_WGyM) and an [info graphic](http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf) by Jeff Patton summarizing it on its original proposition.
 
 Let's look at the final representation we will have at the end of a project. I will describe how it evolves. I'm using a custom diagram here, but software like Miro offers a template.
 
