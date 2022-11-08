@@ -17,7 +17,7 @@ The important thing is to have a cohesive story at the top. A story that makes s
 <div align="center">
 <figure>
 	<a href="../../images/project/backbone.svg" name="Backbone">
-		<img  style="width:650px;margin:10px" src="../../images/project/Backbone.svg"/>
+		<img  style="width:650px;margin:10px" src="../../images/project/backbone.svg"/>
 	</a>
 		<!-- <figcaption>Putting together the many common terms for these two stages</figcaption> -->
 </figure>
