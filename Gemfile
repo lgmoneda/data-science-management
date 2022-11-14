@@ -29,3 +29,4 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "just-the-docs", "0.4.0.rc3"
+gem 'jekyll-seo-tag'

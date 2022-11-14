@@ -31,11 +31,12 @@ github_username:  lgmoneda
 remote_theme: just-the-docs/just-the-docs
 mathjax:
   source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
-  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'   
+  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
 compress_html:
-  blanklines: true   
+  blanklines: true
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 ga_tracking: G-4FZ4ZK59NB
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
