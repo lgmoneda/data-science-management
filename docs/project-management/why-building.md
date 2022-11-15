@@ -13,7 +13,7 @@ nav_order: 1
 
 # Why are we building it?
 
-This text will consider that the team is working on the right problem. The process of answering the questions on "why" and "what" to build can be seen as part of Product Management. There will be constant sanity checks on them during project management. Still, I will consider the starting point as "we know the problem we are trying to solve is relevant and how it connects to the desired business outcome". Nonetheless, since a common anti-pattern is to build a Machine Learning problem a team does not need, let's briefly comment on it.
+This text will consider that the team is working on the right problem. The process of answering the questions on "why" and "what" to build can be seen as part of Product Management. There will be constant sanity checks on them during project management. Still, I will consider the starting point as "we know the problem we are trying to solve is relevant and how it connects to the desired business outcome". Nonetheless, since a common anti-pattern is to build a Machine Learning model a team does not need, let's briefly comment on it.
 
 ## De-risking the choice of building a Machine Learning model
 
