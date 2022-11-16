@@ -22,3 +22,58 @@ body {
 .nav-list-link {
     color: #286748;
 }
+
+.table-wrapper {
+	box-shadow: none;
+}
+
+/* Source: https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l */
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color:#286748;
+    color: #ffffff;
+	color: #286748;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #286748;
+}
+
+/* Source: https://kovart.github.io/dashed-border-generator/ */
+.dashed-text-block {
+	/* border-style: dashed; */
+	margin: auto;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 90%;
+	align: center;
+background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='15' ry='15' stroke='%23286748FF' stroke-width='3' stroke-dasharray='6%2c 14' stroke-dashoffset='15' stroke-linecap='square'/%3e%3c/svg%3e");
+border-radius: 15px;
+}
+
+.mermaid-language {
+	display: flex !important;
+	justify-content: center
+}
