@@ -25,6 +25,7 @@ baseurl: "/data-science-management" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lgmoneda
 github_username:  lgmoneda
+permalink: /:title
 
 # Build settings
 #theme: "just-the-docs"

@@ -3,6 +3,7 @@ layout: page
 title: Project
 has_children: true
 permalink: /project-management/
+description: "Manage Data Science projects delivering knowledge and value incrementally."
 ---
 
 # Introduction

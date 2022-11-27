@@ -3,6 +3,7 @@ layout: page
 title: Metrics
 parent: Project
 nav_order: 5
+description: "Learn how to use different kinds of metrics while you develop a Machine Learning model in a data science project."
 ---
 
 # Table of contents
