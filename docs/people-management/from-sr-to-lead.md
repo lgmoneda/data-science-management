@@ -4,7 +4,7 @@ title: From Senior to Lead Data Scientist and ML Engineer
 parent: People
 nav_order: 5
 description: The transition from a Senior to a Lead Data Scientist or Machine Learning Engineer is not trivial and include a phase change in a career. We discuss the main levers one have to develop towards it.
-image: ../../images/people/victory-samothrace-data-sci.png
+image: https://lgmoneda.github.io/data-science-management/images/people/victory-samothrace-data-sci.png
 ---
 
 # Table of contents
