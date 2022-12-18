@@ -22,7 +22,7 @@ title: Data Science Leadership
 email: lg.moneda@gmail.com
 description: Data Science Leadership
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.datascienceleadership.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://datascienceleadership.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lgmoneda
 github_username:  lgmoneda
 permalink: /:title
