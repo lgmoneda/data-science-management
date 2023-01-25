@@ -2,7 +2,16 @@
 layout: page
 title: Home
 permalink: /
+description: "Topics on Data Science management and technical leadershipx."
 ---
+
+<div align="center">
+<figure>
+	<a href="../images/forest-wide.png" name="Forest">
+		<img  style="width:350px;margin:10px" src="../images/forest-wide.png"/>
+	</a>
+</figure>
+</div>
 
 Topics about Data Science Leadership. The material is under construction. In this material, I want to explore the reusability of concepts from other fields and what I consider particular to Data Science. I've worked in leadership positions, mainly as a manager, for almost four years. I had the opportunity to lead projects, create roadmaps, set vision, grow people to their first step into management or technical leadership and manage other managers. I plan to cover both Management and Technical Leadership.
 
