@@ -3,6 +3,7 @@ layout: page
 title: Home
 permalink: /
 description: "Topics on Data Science management and technical leadershipx."
+image: "../images/forest-wide.png"
 ---
 
 <div align="center">
