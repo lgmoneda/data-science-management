@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Data Science Leadership
 permalink: /
 description: "Topics on Data Science management and technical leadershipx."
 image: "../images/forest-wide.png"
