@@ -3,6 +3,7 @@ layout: page
 title: One on one guide
 parent: People
 nav_order: 1
+canonical_url: http://lgmoneda.github.io/2020/01/12/one-on-one-guide.html
 ---
 
 # Table of contents
