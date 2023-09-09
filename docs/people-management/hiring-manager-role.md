@@ -34,7 +34,7 @@ We discuss conducting an HM interview, crafting the offer, and taking smart risk
 This guide considers a reasonably large company with a Talent Acquisition team and different people interviewing the candidate. If you work in a smaller company, you will likely play more than one role.
 
 # Pre-requisite
-
+{: .no_toc }
 The first thing is the budget. In a large company, it will be very structured and pre-defined, while in smaller companies, it might be decided on the fly. Regardless of your case, check it and what is the associated seniority level. Verify the flexibility if you can go for more junior or senior candidates, depending on the circumstances. However, define the target level to enable Talent Acquisition (TA), or even yourself, to search effectively. Consider the timing. If you want a hire in Q2, act on Q1. Decide or talk to other leaders to know when they expect to have this person in case you are serving other orgs.
 
 # Kick-off
@@ -62,9 +62,6 @@ An engaged HM is the secret to a successful hire or hiring pipeline. The HM is e
 The TA team usually requests the candidate's compensation expectation in the first interview. They will also have a better idea about what scope the candidate is open to. There's room for a sanity check regarding compensation and expected scope here. There is a chance the candidate is out of your company's salary bands for that level, and there is no need or possibility to hire the person at a higher level. You can call to stop the process for the candidate; otherwise, we are wasting everyone's time. Candidates usually expect a 20-50% salary increase in a new offer, and placing them at whatever level is needed to fulfill compensation expectations is not recommended. The Data Science market has a supply shortage, and there will be candidates who'll be plain too expensive. Forcing their way into the team can compromise other members' engagement and generate attrition. 
 
 # The Hiring Manager interview 
-:PROPERTIES:
-:ID:       C7800BEF-CD6C-43F1-8FA4-56D24099FD1C
-:END:
 
 Your interview is going to complement the others. Do not try to assess everything. During the interview, you can do little sanity checks about dimensions measured in other cases, but at the risk of overlapping information and lacking info to make the right choice about the offer. The main info you want from it is the candidate's seniority. 
 
@@ -157,8 +154,6 @@ If it fails because of the candidate's level range, consider asking them if they
 
 # The offer
 
-The [[id:22356E4E-02C9-46A7-BD74-1E186EA20D31][Job offer]].
-
 This process changes from company to company, but you will likely craft the offer with the support of another person or have your manager do it (if you are in the first levels of management).
 
 There are usually safeguards from the company to avoid doing something wrong, like salary bands and ranges for flexibility.
@@ -196,7 +191,7 @@ What if they say No
 
 You should know how likely the offer will be accepted during the hiring process and offer crafting stages. If we knew the chances were not very high, and you know precisely the reasons - other offers, compensation, a promise to be promoted in the current company, the common best thing is to let it go, with the assumption you did all you could to cover the possible reasons.
 
-If it surprised the team, and they did not specify in the rejection e-mail, try to contact them to know the reason. Do not insist if they are not open. At the most, offer more clarification about the role and make minor adjustments to the offer. I'd recommend that a counter-offer should, at most, have a small change to match another offer or be backed by specific concerns - changing locations, providing to the family, etc. If the candidate's concern is a general "the more money, the better", that's the wrong motivation, and they will always have a chance to leave the team for a 20-50% increase and cause future problems. Remember the [[id:0649F84B-1928-4246-96C7-C48FCA6EF9D6][Winner's curse]]: when there is competition for an asset of uncertain value, often the winner pays more for than it is actually worth. It means you shouldn't try to cover other offers at all costs, especially if it is from a third company and not the candidate's current company. [[id:69D62B8B-D43C-414A-BF6F-2B8EF8F2A931][The only reason to be the highest bidder is if you have a secret advantage for making that idea/asset great]]. 
+If it surprised the team, and they did not specify in the rejection e-mail, try to contact them to know the reason. Do not insist if they are not open. At the most, offer more clarification about the role and make minor adjustments to the offer. I'd recommend that a counter-offer should, at most, have a small change to match another offer or be backed by specific concerns - changing locations, providing to the family, etc. If the candidate's concern is a general "the more money, the better", that's the wrong motivation, and they will always have a chance to leave the team for a 20-50% increase and cause future problems. Remember the Winner's Curse: when there is competition for an asset of uncertain value, often the winner pays more for than it is actually worth. It means you shouldn't try to cover other offers at all costs, especially if it is from a third company and not the candidate's current company. The only justification is if you have an advantage that will make that set of skills particularly valuable, so having that person in your team has a value the other companies can't perceive.
 
 # Taking smart risks
 
@@ -217,7 +212,7 @@ Additionally, pay attention to the team this person will work on. Not shining in
 
 # Common anti-patterns
 
-Apply a simple rule over the interview results: A hiring manager wouldn't be needed if the criterion to hire someone was having a "yes" in every interview. Be active and intentional during the process and reflect on the possible trade-offs and associated risks.
+- Apply a simple rule over the interview results: A hiring manager wouldn't be needed if the criterion to hire someone was having a "yes" in every interview. Be active and intentional during the process and reflect on the possible trade-offs and associated risks.
 
 - Hiring a Staff+ from another company to be a Senior- in yours because of their performance in the technical part: if a candidate is in a technical leadership role but they don't have the technical level to exercise it in your company, don't try to bring them to a previous career stage if they are not open to. Be careful about what they say since your company might be able to offer more money for a Senior role than to their current position, and they can say "yes" if questioned directly, but it is a "no" when it comes to the day to day, and they will avoid "Senior work" and try to contribute in their old scope. When the companies are clearly in different stages, and the candidate is moving from a company without much Data Science culture, they are usually more open to it and conscious they wouldn't be offered the same position they have.
 
@@ -231,6 +226,7 @@ Apply a simple rule over the interview results: A hiring manager wouldn't be nee
 
   
 # If it is your first time as an HM
+{: .no_toc }
 
 Request your manager to review your requirements and desired profile, and bring them your hiring challenges to get other points of view as you calibrate. The same thing goes for the offer. Request your manager to be there. Let them do the more general pitch while you do the specific. Having someone more experienced in the first 1-2 times you do every step here will accelerate your learning. 
 
