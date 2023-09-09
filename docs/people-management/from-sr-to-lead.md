@@ -338,7 +338,27 @@ However, mimicking is different. It is trying to behave in the next scope withou
 
 I've been in the place of suggesting to someone they should participate more in a certain kinds of meetings before realizing they could not do it effectively without going through other stages.
 
-[graph: understanding of the problem, skill to get info from people by asking the right questions, understanding of the team strategy -> Take the role of a guide during a meeting -> ]
+<div class="mermaid mermaid-language">
+flowchart LR
+
+classDef classDefault fill:#286748,color:#FFF,stroke-width:2px,stroke:#286748;
+classDef classBad fill:#8b0000,color:#FFF,stroke-width:2px,stroke:#286748;
+
+A[Knowledge] --> B(Guiding the room)
+B --> C(Resolution)
+
+D(Desire to lead) --> B
+
+style A fill:#286748, color:#fff
+
+%%Style
+class A classDefault;
+class B classDefault;
+class C classDefault;
+class D classBad;
+
+</div>
+<script async src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
 
 As a Senior professional, try to clarify the chain involved in it and be honest with you: why can't you provide a valuable code review? What makes it possible to unlock these possibilities in your context?
 
