@@ -205,7 +205,7 @@ Instead of a plain evaluation, evaluate the candidates #given# their background 
 
 Focus on the strengths of the candidate. Could the DS with a background in biology surprise the team on any aspect of the field? Maybe they are amazing in experiment design? Especially in large companies, Data Science professionals might have a very different challenge requiring different skills. 
 
-This approach will favor and help to bring more diversity to your team, and it is an objective way to evaluate [[id:A0C2A4ED-67DE-4B8D-9978-61C68D7C25BF][People's Potential]]: when someone shows they excel in one dimension, it is easier to generalize they can excel when provided with the right resources and opportunities in other dimensions, which we can call the potential of the candidate. Further, depending on the position, they will likely be more valuable to your company by offering strengths instead of a flat skill profile.
+This approach will favor and help to bring more diversity to your team, and it is an objective way to evaluate people's potential: when someone shows they excel in one dimension, it is easier to generalize they can excel when provided with the right resources and opportunities in other dimensions, which we can call the potential of the candidate. Further, depending on the position, they will likely be more valuable to your company by offering strengths instead of a flat skill profile.
 
 Additionally, pay attention to the team this person will work on. Not shining in a particular skill that's highly needed to succeed in the context of the team they will join requires this team to have people with slack to mentor the new hire on that skill. 
 
