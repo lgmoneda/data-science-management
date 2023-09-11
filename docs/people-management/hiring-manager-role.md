@@ -27,6 +27,8 @@ image: https://lgmoneda.github.io/data-science-management/images/people/potentia
 
 # Intro 
 
+This article represents my personal view and take on this role, not a policy from my current or previous employers. 
+
 The Hiring Manager (HM) is a manager's role when hiring someone who'll report to them. This guide describes how to act effectively as an HM for Data Science - though it mostly fits for tech and analytical positions. It differs from your previous hiring role as an interviewer applying cases. You are now accountable for hiring the right person, far from waiting for a candidate who gets "Strong approval" in every hiring case and simply concluding to make an offer. We focus on hiring Individual Contributors (ICs). 
 
 We discuss conducting an HM interview, crafting the offer, and taking smart risks when hiring.
@@ -197,11 +199,13 @@ If it surprised the team, and they did not specify in the rejection e-mail, try 
 
 Being very conservative in a hiring process might be considered "having high standards" by some people, but it can be detrimental to the overall quality of your team. Conservative usually means evaluating people based on what your team already knows and setting an equal bar for every competence regardless of the candidate's background and the position they will fill.
 
-Efforts for diversity and inclusion can be confusing to Hiring Managers. Some will act defensively and use the traditional "I will hire the best candidate regardless of who they are", while on the other side of the spectrum, some will "give an opportunity, even if they failed a few cases to bring diversity to the team", which seems optimistic, but it can set the new hire for failure, harm their career, and it might not be the best person to give an opportunity.
+Efforts for diversity and inclusion can be confusing to Hiring Managers. Some will act defensively and use the traditional "I will hire the best candidate regardless of who they are", which is hiding from the real challenge. While on the other side of the spectrum, some will "give an opportunity, even if they failed a few cases to bring diversity to the team", which seems optimistic, but it can set the new hire for failure, harm their career, and it might not be the best person to give an opportunity.
 
-Taking smart risks means assuming a risk (a future dismissal) in exchange for the chance of a compatible outcome (bringing new skills that will be impactful, increasing the team's diversity with a strong hire, etc). 
+Taking smart risks means assuming a risk (a future dismissal) in exchange for the chance of a compatible outcome (bringing new skills that will be impactful, increasing the team's diversity with a strong hire, etc). The first step is to be aware of the risk, how large it is. However, it is also interesting to note the outcome: I don't consider smart assuming a high risk to bring someone that in the best case will bring the same knowledge and social background your team already has. 
 
-Instead of a plain evaluation, evaluate the candidates #given# their background and experiences. For example, if a candidate works as a Data Scientist but has a background in biology, it is expected they had no formal programming training and their coding experience is shorter than those of Computer Science and Engineering backgrounds candidates. In this case, some mistakes are acceptable in a programming case. However, having a candidate with a CS background and a couple of years of experience in a good tech company making the same mistakes might be a red flag.
+Instead of a plain evaluation, evaluate the candidates **given** their background, experiences, and previous opportunities. For example, if a candidate works as a Data Scientist but has a background in biology, it is expected they had no formal programming training and their coding experience is shorter than those of Computer Science and Engineering backgrounds candidates. In this case, some mistakes are acceptable in a programming case. However, having a candidate with a CS background and a couple of years of experience in a good tech company making the same mistakes might be a red flag.
+
+Another strong trait that helps to decide on whom to take a risk is their evolution during the interviews. Candidates that learn during the interview, are able to discuss, make good questions, learn a new concept, apply it, and move forward. 
 
 Focus on the strengths of the candidate. Could the DS with a background in biology surprise the team on any aspect of the field? Maybe they are amazing in experiment design? Especially in large companies, Data Science professionals might have a very different challenge requiring different skills. 
 
