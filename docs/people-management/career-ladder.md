@@ -4,7 +4,7 @@ title: Data Science Career Ladder
 parent: People
 nav_order: 8
 description: Considerations when building a career ladder and a generic example for Data Scientists and ML Engineers.
-image: https://lgmoneda.github.io/data-science-management/images/people/victory-samothrace-data-sci.png
+image: https://lgmoneda.github.io/data-science-management/images/people/ladder-zoom.png
 ---
 
 # Table of contents
