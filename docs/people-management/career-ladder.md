@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Science Career Ladder
+title: The Data Science Career Ladder
 parent: People
 nav_order: 8
 description: Considerations when building a career ladder and a generic example for Data Scientists and ML Engineers.
