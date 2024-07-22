@@ -244,7 +244,7 @@ These questions help us not overestimate or underestimate individuals' importanc
 
 # How does impact relate to performance grades and promotions?
 
-Considering my experience, conversations with people who worked in big tech, and articles about big tech culture (mostly from the [Pragmatic Engineer](https://www.pragmaticengineer.com/)), I consider the following model good for "self-career management." Notice that it is a simplification that we hope to be helpful.
+Considering my experience, conversations with people who worked in big tech, and articles about big tech culture (mostly from the [Pragmatic Engineer](https://www.pragmaticengineer.com/)), I consider the following model good for "self-career management." Notice that it is a simplification that we hope to be helpful. Though I believe it is useful to have clarity on this relationship, I don't think it is useful to obssess with it. I recommend obsessing with problem solving and excellence for your domain, which I explain in another [article](/docs/technical-leadership/tech-driven-career).
 
 From now on, we are using the non-reductionist definition of impact, normalized by the counterfactual evaluation exercise. Keep in mind that performance grades classify cycles and not individuals.
 
@@ -334,7 +334,7 @@ So far, we are looking at λ as the magnitude of what happened in the cycle. Whe
 
 When we connect risk-taking and innovation, there is a broadly accepted notion that companies need to consistently take risks to survive [^fn4]. Thus, leaders want to engage people in taking smart risks. Nonetheless, it is necessary for people management and technical tracks, as leadership necessarily involves decision-making under uncertainty and facing ambiguous problems. In general, there will be no way to achieve expectations of higher levels or develop skills for the next scope without some risk-taking via ill-definition, longer time frames, etc.
 
-At the same time, companies can't blindly reward risk-taking. If one rewards risk-taking without context, there will be no incentive to perform low-risk work organizations depend on, such as keeping systems working. People will jump from one Minimum Viable Product to another if one makes unattractive the work of guaranteeing healthy systems or fixing existing products, software, models, etc. 
+At the same time, companies can't blindly reward risk-taking. If one rewards risk-taking without context, there will be no incentive to perform low-risk work organizations depend on, such as keeping systems working. People will jump from one Minimum Viable Product to another if one makes unattractive the work of guaranteeing healthy systems or fixing existing products, software, models, etc. Avoiding under appreciation of maintainance and low risk work is actually a [current challenge](https://x.com/xlr8harder/status/1814195097887502403) in the tech industry.
 
 Punishing or providing unconstrained rewards for risk-taking will damage a company in the long run.
 
