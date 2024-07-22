@@ -5,7 +5,7 @@ parent: People
 nav_order: 9
 mathjax: true
 description: A model to understand your impact and risk-taking decisions in a company, and what you can expect from how they link to  performnace evaluation and promotions
-image: https://lgmoneda.github.io/data-science-management/images/people/impact-possibilities-frontier.svg
+image: https://lgmoneda.github.io/data-science-management/images/people/impact-possibilities-frontier.png
 ---
 
 # Table of contents
