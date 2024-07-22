@@ -4,8 +4,8 @@ title: Impact, Risk, and their relationship with performance grades and promotio
 parent: People
 nav_order: 9
 mathjax: true
-description: Considerations when building a career ladder and a generic example for Data Scientists and ML Engineers.
-image: https://lgmoneda.github.io/data-science-management/images/people/ladder-zoom-hq.png
+description: A model to understand your impact and risk-taking decisions in a company, and what you can expect from how they link to  performnace evaluation and promotions
+image: https://lgmoneda.github.io/data-science-management/images/people/impact-possibilities-frontier.svg
 ---
 
 # Table of contents
