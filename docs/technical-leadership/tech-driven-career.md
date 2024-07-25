@@ -5,7 +5,7 @@ parent: Technical Leadership
 nav_order: 1
 mathjax: true
 description: How to self-manage and make the technical leadership career exciting
-image: https://lgmoneda.github.io/data-science-management/images/people/ladder-zoom-hq.png
+image: https://lgmoneda.github.io/data-science-management/images/technical/mirror-cube.jpg
 ---
 
 # Table of contents
