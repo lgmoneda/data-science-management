@@ -50,7 +50,7 @@ After you identify the technical levers of this change, it becomes touchable. Th
 
 Consider as a domain what teams cover from a team level (5-15 people) to a business unit level (100+ people). 
 
-Stop looking at the mirror or #starting# this conversation from your skills perspective. Start with problems and subjects you feel excited about. Notice one of the behaviors of technical leaders is to [own the technical state of their team(s)](/docs/people-management/from-sr-to-lead).
+Stop looking at the mirror or **starting** this conversation from your skills perspective. Start with problems and subjects you feel excited about. Notice one of the behaviors of technical leaders is to [own the technical state of their team(s)](/docs/people-management/from-sr-to-lead).
 
 Here are some examples of domains, from highest to lowest level: Fraud, Credit Card Fraud, and transactional credit card fraud.
 
@@ -69,18 +69,18 @@ It doesn't mean disregarding your career. You should talk to your manager about 
 
 There are many advantages of focusing on problem-solving instead of personal skills:
 
-- You have #peers# also looking into the same problems and at different levels of abstraction;
-- You might have more senior #technical leaders# also caring and interested in how to build together and coordinate;
-- Your #manager and #General Manager# care a lot about it because it also relates to their career;
-- There are people outside your company doing #research# about it!
-- Multiple companies are also solving it, many in an #inspiring way#.
+- You have **peers** also looking into the same problems and at different levels of abstraction;
+- You might have more senior **technical leaders** also caring and interested in how to build together and coordinate;
+- Your **manager** and **General Manager** care a lot about it because it also relates to their career;
+- There are people outside your company doing **research** about it!
+- Multiple companies are also solving it, many in an **inspiring way**.
 
 Those unclear aspects of growth become natural consequences of the exciting work:
 
-- #Multiple teams impact# as a consequence of #solving problems# that touch multiple people, teams, and BUs;
-- #Influence# as a consequence of others willing to #replicate your team's success#;
-- #Strategic# as a consequence of #solving complex problems# that require multiple steps and solving trade-offs; 
-- A #field reference# as a consequence of #innovating to solve problems# the community cares.
+- **Multiple teams impact** as a consequence of **solving meaningful problems** that touch multiple people, teams, and BUs;
+- **Influence** as a consequence of others willing to **replicate your team's success**;
+- **Strategic** as a consequence of **solving complex problems** that require multiple steps and solving trade-offs; 
+- A **field reference** as a consequence of **innovating to solve problems** the community cares.
 
 # Intuitions regarding personal growth and domain importance in a company 
 
@@ -199,15 +199,15 @@ Which existing strategies can you contribute uniquely? Can you see anything othe
 
 When pushing your sub-domain to the ideal state, do you depend on others making changes to their sub-domains? Can you implement it locally and use it to convince people, or do you need to move together with others, even for the first step?
 
-Your expectations should be around solving these problems #as a team#. 
+Your expectations should be around solving these problems **as a team**. 
 
 # Establishing a conversation with research and industry
 {:.no_toc}
 
 In general, I see that we all Data Scientists and Machine Learning Engineers share:
-- Enjoyment of #problem solving# with AI;
-- Interest in how #research# on the field progresses;
-- The desire to be the most #advanced and innovative# in applying AI to solve our domain problems.
+- Enjoyment of **problem solving** with AI;
+- Interest in how **research** on the field progresses;
+- The desire to be the most **advanced and innovative** in applying AI to solve our domain problems.
 
 <div align="center">
 <figure>
@@ -231,16 +231,16 @@ The delivery process will push you to learn all those leadership skills—you wi
 # Setting yourself to success and monitoring progress
 
 When setting in a team, ensure to ask yourself these two questions:
-1. Are you excited about solving the #underlying business problem#?
+1. Are you excited about solving the **underlying business problem**?
 Does the external perception that your company solves it extremely well make you want to be part of it?
 For example, in customer support, you must be excited about delighting customers when solving their tickets using AI and everything else needed. 
 More particularly, think about your team's part in the larger business problem you solve.
-2. Are the related #tech sub-fields# exciting for you?
+2. Are the related **tech sub-fields** exciting for you?
 For example, NLP is used when working with customer support. Causal inference if working on behavioral changes. Recommendations if working in a marketplace or content-driven network. Engineering platforms if working in platform teams. Then, go deeper to ask about the sub-areas of these broad topics.
 
 When part of the team, monitor your progress: Is the domain/solution you and your team are responsible for clearly progressing and operating at a new level according to your defined standards? If yes, what was your role in it?
 
-#It is impossible that the story of the career growth of the most senior tech leaders in a team won't be intricated with the story of how that team got to their most ambitious goals#. 
+It is impossible that the story of the career growth of the most senior tech leaders in a team won't be intricated with the story of how that team got to their most ambitious goals. 
 
 # The role of people managers in it
 
