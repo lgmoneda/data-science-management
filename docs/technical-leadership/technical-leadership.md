@@ -23,7 +23,7 @@ More specifically, I wanted to develop people beyond that first step into techni
 
 In 2023, I teamed up with my team's Staff Machine Learning Engineer, [Caique Lima](https://www.linkedin.com/in/caiquelima), and prepared a couple of workshops for the Lead Machine Learning Engineers we had in our Org. Beyond our own experience, they were based on three books: Team Topologies [^fn1], The Staff Engineer's Path [^fn2], and the Staff engineer: leadership beyond the management track [^fn3].
 
-I will share a revised version of it and keep adding as I learn from the trajectories of professionals on this track.
+I will share a revised version of it and keep adding as I learn from the trajectories of professionals on this track. There is a [template](https://miro.com/app/board/uXjVKms1KIM=/?share_link_id=752512685457) for the activities.
 
 A suggested order
 
