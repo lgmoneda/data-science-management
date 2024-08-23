@@ -5,7 +5,7 @@ parent: Technical Leadership
 nav_order: 2
 mathjax: true
 description: ...
-image: https://lgmoneda.github.io/data-science-management/images/technical/mirror-cube.jpg
+image: https://lgmoneda.github.io/data-science-management/images/technical/mime-artist-pedestrian-social.jpeg
 ---
 
 # Table of contents
@@ -96,11 +96,9 @@ There is a homomorphism between the design team and the system design. In many c
 
 <div align="center">
 <figure>
-	<a href="../../images/technical/conway_mimic.jpg" name="Diffusion curve">
-		<img  style="width:350px;margin:10px" src="../../images/technical/conway_mimic.jpg"/>
+	<a href="../../images/technical/mime-artist-pedestrian.jpeg" name="Diffusion curve">
+		<img  style="width:350px;margin:10px" src="../../images/technical/mime-artist-pedestrian.jpeg"/>
 	</a>
-		<figcaption>There are three modes of interaction for teams. As interactions are inevitable when building complex systems in a team of teams, the types set the expected behaviors to ease the exchanges.
-<a href="https://teamtopologies.com/infographic/getting-started-with-team-topologies-infographic">Source.</a></figcaption>
 </figure>
 </div>
 
@@ -196,9 +194,15 @@ The authors also offer a way to evaluate the domain split using two questions:
 
 If the answer is yes, one can split that sub-system and have a team owning it.
 
-Further, we classify the domains by their complexity. Perfectly, a team should 
 ## Domain complexity 
 
+Further, we classify the domains by their complexity. 
+
+- **Simple**: Most work is straightforward;
+- **Complicated**: Changes require careful planning and analysis, execution usually happens with a few iterations;
+- **Complex**: Solutions require a lot of experimentation and discovery.
+
+There is no rule for the number of domains a team can own, but the authors suggest heuristics like not owning more than one domain if it is complex and avoiding owning two complicated domains since the team will behave like two teams, so it is better to split it. 
 
 # The evolution of Data Science in the industry and its sub-domains
 
