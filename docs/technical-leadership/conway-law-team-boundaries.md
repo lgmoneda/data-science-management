@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conway Law and team boundaries
+title: Conway's Law and team boundaries
 parent: Technical Leadership
 nav_order: 2
 mathjax: true
