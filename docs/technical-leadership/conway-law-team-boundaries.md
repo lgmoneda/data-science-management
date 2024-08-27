@@ -4,7 +4,7 @@ title: Conway Law and team boundaries
 parent: Technical Leadership
 nav_order: 2
 mathjax: true
-description: ...
+description: An introduction on how organizational structure and team size impact system architecture via the Conway's law, and how a technical leader can leverage it.
 image: https://lgmoneda.github.io/data-science-management/images/technical/mime-artist-pedestrian-social.jpeg
 ---
 
