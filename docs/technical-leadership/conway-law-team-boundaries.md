@@ -73,7 +73,7 @@ Going beyond Dunbar's number, Skelton and Pais bring other limits for certain ty
 
 - Around fifteen people: Limit of people with whom we can experience deep trust
 
-Around fifty people are the limit of people with whom we can have mutual trust.
+- Around fifty people are the limit of people with whom we can have mutual trust.
 
 - Around 150 people: Limit of people whose capabilities and skills]] we can remember.
 
@@ -108,7 +108,7 @@ It means that when designing teams, we are designing systems. If cognition is an
 
 # Inverse Conway maneuver
 
-> Design the organization you want, the architecture will follow (kicking and screaming)  
+> Design the organization you want, the architecture will follow (kicking and screaming)
 > \- Evan Bottcher
 
 Coinned by James Lewis and others from Thoughtworks [^fn9]. Enforced by Forsgren (2018) [^fn6].
@@ -148,13 +148,13 @@ Let's recap to ensure a clear understanding of the foundations of this care abou
 
 If we expect our architecture to continuously evolve, we should expect continuous organizational change.
 
-> Always hopeful, yet discontent  
-> He knows changes aren't permanent  
-> But change is  
->   
-> \- Rush, Tom Sawyer  
+> Always hopeful, yet discontent
+> He knows changes aren't permanent
+> But change is
+>
+> \- Rush, Tom Sawyer
 
-We don't expect to change teams, members, and organization frequently. It is costly. 
+We don't expect to change teams, members, and organization frequently. It is costly.
 
 Teams need to be together for a reasonable time to generate mastery. Nonetheless, we need to keep in mind that some changes are expected due to a greater understanding of the problem the team is solving or the solution the team wants, the increase in complexity, etc.
 
@@ -194,15 +194,15 @@ The authors also offer a way to evaluate the domain split using two questions:
 
 If the answer is yes, one can split that sub-system and have a team owning it.
 
-## Domain complexity 
+## Domain complexity
 
-Further, we classify the domains by their complexity. 
+Further, we classify the domains by their complexity.
 
 - **Simple**: Most work is straightforward;
 - **Complicated**: Changes require careful planning and analysis, execution usually happens with a few iterations;
 - **Complex**: Solutions require a lot of experimentation and discovery.
 
-There is no rule for the number of domains a team can own, but the authors suggest heuristics like not owning more than one domain if it is complex and avoiding owning two complicated domains since the team will behave like two teams, so it is better to split it. 
+There is no rule for the number of domains a team can own, but the authors suggest heuristics like not owning more than one domain if it is complex and avoiding owning two complicated domains since the team will behave like two teams, so it is better to split it.
 
 # The evolution of Data Science in the industry and its sub-domains
 
