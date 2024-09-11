@@ -14,7 +14,7 @@ image: "../images/forest-wide.png"
 </figure>
 </div>
 
-Topics about Data Science Leadership. The material is under construction. In this material, I want to explore the reusability of concepts from other fields and what I consider particular to Data Science. I've worked in leadership positions, mainly as a manager, for more than five years years. I had the opportunity to lead projects, create roadmaps, set vision, grow people to their first step into management or technical leadership and manage other managers. I plan to cover both Management and Technical Leadership.
+Topics about Data Science Leadership. The material is under construction. I explore the reusability of concepts from other fields and what I consider particular to Data Science. I've worked in leadership positions, mainly as a manager, for more than five years. I had the opportunity to lead projects, create roadmaps, set vision, grow people to their first step into management or technical leadership and manage other managers. I plan to cover both Management and Technical Leadership.
 
 Currently, I work as a Data Science Director at Nubank. You can contact me via lg[dot]moneda[at]gmail[dot]com or via [LinkedIn](https://www.linkedin.com/in/luis-moneda-310b0010a/).
 
