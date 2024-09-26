@@ -195,11 +195,12 @@ In general, I believe the team types originate from stream-aligned teams. Then, 
 However, "facilitating" is occasionally expected from Stream-aligned teams, and I see it happening often. In my current company, we even have a process called "Design Review," in which we pick 1-2 advisors from other teams who are more seasoned in that kind of problem. They don't execute, but we expect them to transfer knowledge and increase the likelihood of success.
 
 # Workshop #2: Evaluating team behaviors & identifying the layers of platforms
+
 ## Activity 1: Evaluate your team behaviors according to its team type
 {:.no_toc}
 
 First, identify which type of team you are part of.
-Then, use the Miro board to gather evidence of the presence or lack of the many expected behaviors from that team type. Notice that you can have evidence pointing in both directions (it isn't black and white).
+Then, use the [Miro board](https://miro.com/app/board/uXjVKms1KIM=/?share_link_id=752512685457) to gather evidence of the presence or lack of the many expected behaviors from that team type. Notice that you can have evidence pointing in both directions (it isn't black and white).
 
 ## Activity 2: Evaluating Platform Behaviors
 {:.no_toc}
