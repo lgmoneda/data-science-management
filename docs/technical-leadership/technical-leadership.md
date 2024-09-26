@@ -42,9 +42,9 @@ A suggested order
             <td>Describe the flow of change from previous projects and identify domains in your team</td>
         </tr>
 		<tr>
-            <td>Team types</td>
+            <td><a href="docs/technical-leadership/team-types">Team types</a></td>
 			<td>Team Topologies</td>
-            <td>Describe actions from your team that support or opposite your team type expected behavior</td>
+            <td>Describe actions from your team that support or oppose your team type's expected behaviors</td>
         </tr>
 		<tr>
             <td>Desigining and evolving sustems by designing team interactions</td>
