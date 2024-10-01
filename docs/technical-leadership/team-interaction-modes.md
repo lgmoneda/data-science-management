@@ -4,7 +4,7 @@ title: Team interaction modes
 parent: Technical Leadership
 nav_order: 4
 mathjax: true
-description: Understand the role and expected behaviors of every tech team type and how Data Scientists and Machine Learning Engineers fit on them.
+description: Patterns for effective interactions between teams and how Data Scientists and Machine Learning Engineers fit in.
 image: https://lgmoneda.github.io/data-science-management/images/technical/team_types_cover.jpg
 ---
 
