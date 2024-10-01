@@ -37,17 +37,17 @@ A suggested order
     </thead>
     <tbody>
         <tr>
-            <td><a href="docs/technical-leadership/conway-law-team-boundaries">Conway's law and team boundaries</a></td>
+            <td><a href="/docs/technical-leadership/conway-law-team-boundaries">Conway's law and team boundaries</a></td>
 			<td>Team Topologies</td>
             <td>Describe the flow of change from previous projects and identify domains in your team</td>
         </tr>
 		<tr>
-            <td><a href="docs/technical-leadership/team-types">Team types</a></td>
+            <td><a href="/docs/technical-leadership/team-types">Team types</a></td>
 			<td>Team Topologies</td>
             <td>Describe actions from your team that support or oppose your team type's expected behaviors</td>
         </tr>
 		<tr>
-            <td><a href="docs/technical-leadership/team-interaction-modes">Desigining and evolving systems by designing team interactions</a></td>
+            <td><a href="/docs/technical-leadership/team-interaction-modes">Desigining and evolving systems by designing team interactions</a></td>
 			<td>Team Topologies</td>
             <td>Design a high-level architecture and find out the team design that elicits it</td>
         </tr>
