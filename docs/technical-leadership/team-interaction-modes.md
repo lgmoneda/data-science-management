@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Team interaction modes
+title: Desigining and evolving systems by designing team interactions
 parent: Technical Leadership
 nav_order: 4
 mathjax: true
-description: Patterns for effective interactions between teams and how Data Scientists and Machine Learning Engineers fit in.
-image: https://lgmoneda.github.io/data-science-management/images/technical/team_types_cover.jpg
+description: Patterns for effective interactions between teams and how Data Scientists, Machine Learning Engineers, and the systems they build fit in.
+image: https://lgmoneda.github.io/data-science-management/images/technical/team_interactions_cover.jpg
 ---
 
 # Table of contents
@@ -195,7 +195,7 @@ Metrics and having everybody work on the operations of the system they develop a
 
 [Miro template](https://miro.com/app/board/uXjVKms1KIM=/?share_link_id=752512685457).
 
-## Activity 1: Evaluate your squad's last interactions
+## Activity 1: Evaluate your team's last interactions
 {: .no_toc }
 
 List 3-5 interactions you had with other teams. Classify them into collaboration, X-as-a-service, and facilitation.
@@ -203,14 +203,14 @@ Identify if there was an opportunity to improve.
 
 Try to pick at least one example from each kind.
 
-## Activity 2: Base and overlapping services
+## Activity 2: Design a system based on existing and potential services 
 {: .no_toc }
 
 If you are part of a team building internal capabilities (platform or complicated subsystem team), consider other existing capabilities or overlapping internal products: How can you reuse them or use what you do as building blocks for them?
 
-If you are on a stream-aligned team, what capabilities could you rely on in existing systems or future endeavors?
+If you are on a stream-aligned team, what capabilities could you rely on in existing systems or future endeavors? If you have a potential new system to build, use it: which non-existing serices coming from complicated subsystem or platform teams you could use for it?
 
-Design a high-level architecture (only shows the interaction between the different services and subsystems). 
+Design a high-level architecture (only shows the interaction between the different services and subsystems). Do the services or subsystems imply in a different team division?
 
 # References
 
