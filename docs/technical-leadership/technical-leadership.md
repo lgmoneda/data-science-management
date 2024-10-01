@@ -47,7 +47,7 @@ A suggested order
             <td>Describe actions from your team that support or oppose your team type's expected behaviors</td>
         </tr>
 		<tr>
-            <td>Desigining and evolving sustems by designing team interactions</td>
+            <td><a href="docs/technical-leadership/team-interaction-modes">Desigining and evolving systems by designing team interactions</td>
 			<td>Team Topologies</td>
             <td>Design a high-level architecture and find out the team design that elicits it</td>
         </tr>
