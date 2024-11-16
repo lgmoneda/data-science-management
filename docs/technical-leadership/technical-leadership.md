@@ -51,6 +51,11 @@ A suggested order
 			<td>Team Topologies</td>
             <td>Design a high-level architecture and find out the team design that elicits it</td>
         </tr>
+		<tr>
+            <td><a href="/docs/technical-leadership/staff-job-description">What is your job description?</a></td>
+			<td>Staff engineer, leadership beyond the management track; The staff engineer’s path</td>
+            <td>Write the job description for a Staff in your team</td>
+        </tr>
     </tbody>
 </table>
 
