@@ -67,7 +67,7 @@ classDef classManager fill:#6495ed,color:#FFF,stroke-width:2px,stroke:#286748;
 A[A coupon-referral elasticity model] -->|Why?| B(We need to know how likely a customer will referral when given a coupon)
 B -->|Why?| C(the Promotions team wants to optimize their coupon distribution)
 C -->|Why?| D(the Growth team has new customers target that won't be hit without improvements in acquisition)
-D --> |Why?| E(Groth is a top business need following the company strategy for the next two years)
+D --> |Why?| E(Growth is a top business need following the company strategy for the next two years)
 E --> |Why?| F(The company faces emerging competitors)
 
 style A fill:#286748, color:#fff
