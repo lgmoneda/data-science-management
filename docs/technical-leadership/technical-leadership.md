@@ -59,12 +59,17 @@ A suggested order
 		<tr>
             <td><a href="/docs/technical-leadership/problem-solving">Problem solving</a></td>
 			<td>Various</td>
-            <td>Write the problem statement; Build a decision-matrix; Run a premortem.</td>
+            <td>Write the problem statement; Build a decision-matrix; Run a premortem</td>
         </tr>
 		<tr>
             <td><a href="/docs/technical-leadership/tech-driven-career">Tech driven career</a></td>
 			<td>-</td>
-            <td>Identify the state of your team, the state of the art, and how to move from present to an idea state.</td>
+            <td>Identify the state of your team, the state of the art, and how to move from present to an idea state</td>
+        </tr>
+		<tr>
+        <td><a href="/docs/technical-leadership/dealing-with-risk">Dealing with risk</a></td>
+		<td>-</td>
+        <td>Identify the sources of uncertainties in your initiatives and how you can de-risk them</td>
         </tr>
     </tbody>
 </table>
