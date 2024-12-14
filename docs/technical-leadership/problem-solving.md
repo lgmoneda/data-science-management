@@ -189,7 +189,7 @@ Diagrams also work great here since you can break down terms, go from generic de
 <div align="center">
 <figure>
 	<a href="../../images/technical/data_augmentation_taxonomy.png" name="Data Augmentation Taxonomy">
-		<img  style="width:550px;margin:10px" src="../../images/technical/data_augmentation_taxonomy.png"/>
+		<img  style="width:750px;margin:10px" src="../../images/technical/data_augmentation_taxonomy.png"/>
 	</a>
 		<figcaption>Source: Ding (2004)</figcaption>
 </figure>
