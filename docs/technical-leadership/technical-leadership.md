@@ -61,6 +61,11 @@ A suggested order
 			<td>Various</td>
             <td>Write the problem statement; Build a decision-matrix; Run a premortem.</td>
         </tr>
+		<tr>
+            <td><a href="/docs/technical-leadership/tech-driven-career">Tech driven career</a></td>
+			<td>-</td>
+            <td>Identify the state of your team, the state of the art, and how to move from present to an idea state.</td>
+        </tr>
     </tbody>
 </table>
 

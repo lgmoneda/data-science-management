@@ -2,7 +2,7 @@
 layout: page
 title: A tech-driven way to manage your career
 parent: Technical Leadership
-nav_order: 1
+nav_order: 7
 mathjax: true
 description: How to self-manage and make the technical leadership career exciting
 image: https://lgmoneda.github.io/data-science-management/images/technical/mirror-cube.jpg
@@ -288,4 +288,13 @@ The evolution of a domain is teamwork. It doesn't need to be "your thing" to pus
 Look for skills resources only when you have a problem at hand. If the current problem you are solving requires convincing multiple teams to change their approach, you should look for tips on communication and influence. If the most important thing you can do for your team is internationalize a solution, look for references on how others did it and the tech topics related to it. 
 
 Enjoy and exchange with your internal and external communities. 
+
+# Workshop #6 - Tech-driven career
+{:.no_toc}
+
+The activities [template](https://miro.com/app/board/uXjVKms1KIM=/?share_link_id=752512685457).
+
+**Activity 1**: Describe your team state using the question in the session 'Understand and characterize the state of your domain in your company'.
+**Activity 2**: Describe the state of the art using the questions in the session 'Understand the state of the art'
+**Activity 3**: Identify how to move from the current to an ideal state. 
 
