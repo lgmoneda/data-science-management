@@ -294,7 +294,7 @@ Enjoy and exchange with your internal and external communities.
 
 The activities [template](https://miro.com/app/board/uXjVKms1KIM=/?share_link_id=752512685457).
 
-**Activity 1**: Describe your team state using the question in the session 'Understand and characterize the state of your domain in your company'.
-**Activity 2**: Describe the state of the art using the questions in the session 'Understand the state of the art'
-**Activity 3**: Identify how to move from the current to an ideal state. 
+**Activity 1**: Describe your team state using the question in the session 'Understand and characterize the state of your domain in your company'.  
+**Activity 2**: Describe the state of the art using the questions in the session 'Understand the state of the art'.  
+**Activity 3**: Identify how to move from the current to an ideal state.   
 
