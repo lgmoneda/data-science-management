@@ -56,6 +56,11 @@ A suggested order
 			<td>Staff engineer, leadership beyond the management track; The staff engineer’s path</td>
             <td>Write the job description for a Staff in your team</td>
         </tr>
+		<tr>
+            <td><a href="/docs/technical-leadership/problem-solving">Problem solving</a></td>
+			<td>Various</td>
+            <td>Write the problem statement; Build a decision-matrix; Run a premortem.</td>
+        </tr>
     </tbody>
 </table>
 
