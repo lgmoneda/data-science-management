@@ -20,14 +20,10 @@ In economics, we have the concept of bounded-rationality [^fn1]. It is about how
 
 When we talk about decisions that shape the work of multiple people, teams, and time frames, it is clear that the boundaries of the ones involved should be relatively large. If one makes decisions that impact others without the proper context, they will be seen as irrational. Do you recall thinking a leader was irrational and follow up with any of these statements?
 
-> "They don't know how the process X works"
-
-> "I think they don't know team Y exists, and it's their scope"
-
-> "Well, team Z will never adopt it"
-
-> "K. doesn't like this sort of solution, they won't support it"
-
+> "They don't know how the process X works"  
+> "I think they don't know team Y exists, and it's their scope"  
+> "Well, team Z will never adopt it"  
+> "K. doesn't like this sort of solution, they won't support it"  
 
 Reilly (2022) [^fn2] offers a tool to help Staff+ see these boundaries, acknowledge, and expand. It consists of drawing three different maps. Locator: shows where you are and puts your part in perspective to the whole; Topographical map: helps you to navigate your company and understand how it works so you can be effective; Treasury map: uncover the goals, where your team, adjacent teams, and the company wants to be. They are useful for understanding the current state, how things work, and where everyone is moving to. I will briefly present them and include my twists and experiences. For a full picture of these concepts, I recommend reading the book.
 
