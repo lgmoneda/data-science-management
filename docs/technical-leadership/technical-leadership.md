@@ -67,9 +67,14 @@ A suggested order
             <td>Identify the state of your team, the state of the art, and how to move from present to an idea state</td>
         </tr>
 		<tr>
-        <td><a href="/docs/technical-leadership/dealing-with-risk">Dealing with risk</a></td>
-		<td>-</td>
-        <td>Identify the sources of uncertainties in your initiatives and how you can de-risk them</td>
+            <td><a href="/docs/technical-leadership/dealing-with-risk">Dealing with risk</a></td>
+			<td>-</td>
+			<td>Identify the sources of uncertainties in your initiatives and how you can de-risk them</td>
+        </tr>
+		<tr>
+            <td><a href="/docs/technical-leadership/localizing-yourself">Localizing yourself in a organization's big picture</a></td>
+			<td>-</td>
+			<td>Build organizational maps</td>
         </tr>
     </tbody>
 </table>
