@@ -168,9 +168,9 @@ Reilly (2022) highlights that as someone in the Staff+, how you report your perf
 
 The activities [template](https://miro.com/app/board/uXjVKms1KIM=/?share_link_id=752512685457).
 
-**Activity 1**: Build your locator map.
-**Activity 2**: Build your topographical map.
-**Activity 3**: Build your treasure map.
+**Activity 1**: Build your locator map.  
+**Activity 2**: Build your topographical map.  
+**Activity 3**: Build your treasure map.  
 
 # References
 
